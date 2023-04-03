@@ -21,10 +21,7 @@
 // THE SOFTWARE.
 
 #import <Foundation/Foundation.h>
-
-#if __has_include(<UIKit/UIKit.h>)
 #import <UIKit/UIKit.h>
-#endif
 
 #import "CKGridBasedAlgorithm.h"
 #import "CKNonHierarchicalDistanceBasedAlgorithm.h"

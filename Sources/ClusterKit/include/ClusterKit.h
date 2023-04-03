@@ -28,12 +28,12 @@ FOUNDATION_EXPORT double ClusterKitVersionNumber;
 //! Project version string for ClusterKit.
 FOUNDATION_EXPORT const unsigned char ClusterKitVersionString[];
 
-#import <ClusterKit/CKClusterManager.h>
-#import <ClusterKit/CKAnnotationTree.h>
-#import <ClusterKit/CKClusterAlgorithm.h>
-#import <ClusterKit/CKNonHierarchicalDistanceBasedAlgorithm.h>
-#import <ClusterKit/CKGridBasedAlgorithm.h>
-#import <ClusterKit/CKMap.h>
-#import <ClusterKit/CKCluster.h>
+#import "CKClusterManager.h"
+#import "CKAnnotationTree.h"
+#import "CKClusterAlgorithm.h"
+#import "CKNonHierarchicalDistanceBasedAlgorithm.h"
+#import "CKGridBasedAlgorithm.h"
+#import "CKMap.h"
+#import "CKCluster.h"
 
 
